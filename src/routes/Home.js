@@ -129,7 +129,7 @@ const Home = () => {
     <label class="form-check-label" for="exampleCheck1">Check me out</label>
   </div>
   <div class="d-grid gap-2 mb-5">
-  <button class="btn btn-primary" type="button">Submit</button>
+  <button class="btn btn-dark" type="button">Submit</button>
 </div>
 </form>
 </div>
